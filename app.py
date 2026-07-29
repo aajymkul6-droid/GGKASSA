@@ -12,7 +12,7 @@ from telebot import types
 
 # 1. ТОКЕН И НАСТРОЙКИ БОТА
 TOKEN = os.environ.get("TOKEN_REF", "СЮДА_МОЖНО_ВСТАВИТЬ_ТОКЕН_ЕСЛИ_НЕ_ЧЕРЕЗ_ПЕРЕМЕННЫЕ")
-MAIN_ADMIN = 8349263362  # ID Главного Администратора
+MAIN_ADMIN = 8971410917  # ID Главного Администратора
 
 SUPPORT = "@Helpggkassabot"
 BOT_USERNAME = "GGKassa_bot"
